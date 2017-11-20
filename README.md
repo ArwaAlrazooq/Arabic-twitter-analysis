@@ -1,7 +1,8 @@
 # Arabic Twitter Analysis
 This repository will include a step by step that help you to conduct analysis of Arabic tweets
 
-## Creating a Twitter app
+## _You can use this method if you want to anaylze the data in Real-Time._ 
+* ## Creating a Twitter app
 
 ![](https://i.imgur.com/E5TDH9L.gif)
 
@@ -13,12 +14,16 @@ This repository will include a step by step that help you to conduct analysis of
 
 Your application has been created ! 
 
-## Getting the API-Key
+* ## Getting the API-Key
+
+![](https://i.imgur.com/G27eU2m.gif)
+
 The API Key is important to intiate a call to twitter application in order to get the data. 
 1. Press on the App you have recetnly created. 
 2. Head to the **Key and Access Tokens** 
 3. You will find the API Key/Secret under **Application Settings**. 
 4. You also will need **Access Token**. Click **Create my access token** 
 5. Take a note of them as you will use them in your application.
+
 
 
