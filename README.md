@@ -25,6 +25,6 @@
   # <div dir="rtl"> هذه الصفحه تمت كتابتها بواسطة </div>
 <div dir="rtl"> أروى الرزوق </div> @Cla22ire <br>
 <div dir="rtl"> روان المعثم </div> @rawan_almatham <br>
-<div dir="rtl"> خلود الغامدي </div> @ <br>
-<div dir="rtl"> ايمان النخيلان </div> @ <br>
+<div dir="rtl"> خلود الغامدي </div> @KhuloodAlGhamdi <br>
+<div dir="rtl"> ايمان النخيلان </div> @EmanAlnkhilan  <br>
 <div dir="rtl"> باشراف الدكتوره: منى الرزقان </div> @Munas02 <br>
