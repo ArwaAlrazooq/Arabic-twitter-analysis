@@ -20,6 +20,31 @@
 ![](https://i.imgur.com/BzZB9bS.png)
   <div dir="rtl"> 
   اتجه الى صفحه Wiki للتعرف على جميع الخطوات 
+  <br>
+  حيث يوجد فيها معلومات مفصلة عن 
+  <br>
+  
+1. [Collecting Data](https://github.com/ArwaAlrazooq/Arabic-twitter-analysis/wiki/Collecting-Data) 
+
+تبين الطرق والادوات المطلوبه لسحب البيانات من تويتر
+
+2. [Data Preprocessing](https://github.com/ArwaAlrazooq/Arabic-twitter-analysis/wiki/Twitter-Data-Preprocessing)  
+
+تختص بعمليه تنظيف البيانات وتجهيزها لعمليه التحليل
+
+3. [Data Analysis](https://github.com/ArwaAlrazooq/Arabic-twitter-analysis/wiki/Data-Analysis)  
+
+تشرح عمليه التحليل باستخدام Weka
+
+4.  [Arabic Word Preprocessing](https://github.com/ArwaAlrazooq/Arabic-twitter-analysis/wiki/Arabic-Word-Preprocessing)
+
+5. [Arabic Sentiment Lexicons](https://github.com/ArwaAlrazooq/Arabic-twitter-analysis/wiki/Arabic-Sentiment-Lexicons)
+
+6. [Case Studies](https://github.com/ArwaAlrazooq/Arabic-twitter-analysis/wiki/Case-Studies)
+
+<br>
+
+
 </div>  
 
   # <div dir="rtl"> هذه الصفحه تمت كتابتها بواسطة </div>
