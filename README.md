@@ -20,9 +20,9 @@
 ![](https://i.imgur.com/BzZB9bS.png)
   <div dir="rtl"> 
   اتجه الى صفحه Wiki للتعرف على جميع الخطوات 
-  <br>
+  <br><br>
   حيث يوجد فيها معلومات مفصلة عن 
-  <br>
+  <br><br>
   
 1. [Collecting Data](https://github.com/ArwaAlrazooq/Arabic-twitter-analysis/wiki/Collecting-Data) 
 
